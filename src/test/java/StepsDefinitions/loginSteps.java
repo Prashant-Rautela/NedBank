@@ -20,7 +20,6 @@ public class loginSteps {
 	private By technologyLink = By.xpath("//ul[@class='products columns-3']/li[2]");
 	private By addToCartButton = By.xpath("//button[@name='add-to-cart']");
 	private By checkoutLink = By.linkText("Proceed to checkout");
-	private By placeOrderButton = By.xpath("(//button[@type='submit'])[2]");
 	private By orderNumber = By.xpath("//ul[@class='woocommerce-order-overview woocommerce-thankyou-order-details order_details']/li[1]");
 	
 	
