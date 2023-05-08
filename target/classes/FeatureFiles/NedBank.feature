@@ -16,5 +16,8 @@ Feature: NedBank
   Scenario: Verify API response
   Given User hits endpoint "http://universities.hipolabs.com/search?country=South+Africa"
     
+   @API
+   Scenario: testing git commands.
+   Given I test the file. 
     
   
