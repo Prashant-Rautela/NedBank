@@ -23,5 +23,6 @@ Feature: NedBank
    Then File is renamed.
    And file is updated.
    And file is shown as updated.
+   When file is reset.
     
   
