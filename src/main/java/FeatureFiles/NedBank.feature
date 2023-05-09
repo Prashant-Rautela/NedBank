@@ -22,5 +22,6 @@ Feature: NedBank
    When I rename the file.
    Then File is renamed.
    And file is updated.
+   And file is shown as updated.
     
   
