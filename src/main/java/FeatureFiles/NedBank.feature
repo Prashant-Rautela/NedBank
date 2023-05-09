@@ -21,5 +21,6 @@ Feature: NedBank
    Given I test the file. 
    When I rename the file.
    Then File is renamed.
+   And file is updated.
     
   
