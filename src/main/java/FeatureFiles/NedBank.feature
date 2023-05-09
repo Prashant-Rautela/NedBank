@@ -19,5 +19,6 @@ Feature: NedBank
    @API
    Scenario: testing git commands.
    Given I test the file. 
+   When I rename the file.
     
   
