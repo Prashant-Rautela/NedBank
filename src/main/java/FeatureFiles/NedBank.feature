@@ -23,5 +23,6 @@ Feature: NedBank
    Then File is renamed.
    And file is updated.
    And file is shown as updated.
-    
+And rever the changes.
+And this is second commit.
   
