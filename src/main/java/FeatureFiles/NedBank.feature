@@ -20,5 +20,6 @@ Feature: NedBank
    Scenario: testing git commands.
    Given I test the file. 
    When I rename the file.
+   Then File is renamed.
     
   
